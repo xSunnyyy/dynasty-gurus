@@ -109,7 +109,7 @@
 
 <div class="page-wrapper">
   <div class="hero">
-    <div class="hero-title">Welcome to Veto City</div>
+    <div class="hero-title">Dynasty Gurus</div>
     <a href="/drafts"><button class="cta-btn">View League Drafts</button></a>
   </div>
 
