@@ -22,8 +22,8 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
 //     {
 //       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Kamrul",
+//       // "managerID": "96724966984531968",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Russ",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -45,8 +45,8 @@ export const managers = [
 //     },
 //     {
 //       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Abbas",
+//       // "managerID": "96746978331213824",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Sunny",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -68,8 +68,8 @@ export const managers = [
 //     },
 //     {
 //       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Adil",
+//       // "managerID": "108991538486722560",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Meshu",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -91,8 +91,8 @@ export const managers = [
 //     },
 //       {
 //       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Sunny",
+//       // "managerID": "210486121161826304",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Rooney",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -114,8 +114,8 @@ export const managers = [
 //     },
 //         {
 //       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Q",
+//       // "managerID": "211202461426262016",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Kap",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -137,8 +137,8 @@ export const managers = [
 //     },
 //         {
 //       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Russ",
+//       // "managerID": "211577353736810496",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Tanim",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -160,8 +160,8 @@ export const managers = [
 //     },
 //             {
 //       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Meshu",
+//       // "managerID": "327125046650748928",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Abbas",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -183,8 +183,8 @@ export const managers = [
 //     },
 //        {
 //       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Bak",
+//       // "managerID": "333704106105397248",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Adil",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -206,8 +206,8 @@ export const managers = [
 //     },
 //         {
 //       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Bilal",
+//       // "managerID": "342723414383054848",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Mizan",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -229,8 +229,8 @@ export const managers = [
 //     },
 //      {
 //       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Mizan",
+//       // "managerID": "464547435725713408",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Bak",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -252,8 +252,8 @@ export const managers = [
 //     },
 //         {
 //       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Imrule",
+//       // "managerID": "465277410305110016",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Titas",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
@@ -275,8 +275,8 @@ export const managers = [
 //     },
 //         {
 //       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       // "managerID": "96721947358281728",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Anik",
+//       // "managerID": "465286309712228352",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+//       "name": "Imrule",
 //       // "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       // "location": "Brooklyn", // (optional)
 //       // "bio": "Bitch Ass Kam",
